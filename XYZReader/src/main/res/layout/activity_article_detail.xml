@@ -17,5 +17,6 @@
         android:layout_gravity="left|bottom"
         android:layout_marginLeft="24dp"
         android:layout_marginBottom="24dp"
-        android:contentDescription="@string/up"/>
+        android:contentDescription="@string/up"
+        android:elevation="@dimen/fab_elevation"/>
 </FrameLayout>
