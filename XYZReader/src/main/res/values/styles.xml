@@ -18,7 +18,8 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
     </style>
 
     <style name="Theme.Bacon.Detail">

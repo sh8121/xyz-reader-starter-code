@@ -22,4 +22,9 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="thickGray">#757575</color>
+
+    <color name="colorPrimary">#212121</color>
+    <color name="windowBackground">#424242</color>
+    <color name="colorCardViewBackground">#757575</color>
 </resources>
