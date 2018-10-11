@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="112dp"
         android:fitsSystemWindows="true"
-        app:elevation="4dp">
+        app:elevation="@dimen/app_bar_elevation">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/toolbar_container"
